@@ -1,1 +1,1 @@
-# ki
+# Künstliche Intellegenz
